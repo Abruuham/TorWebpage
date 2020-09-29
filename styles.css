@@ -442,8 +442,9 @@ pre>code.highlight {
 }
 
 .bg-warm-sick {
-    --bg-opacity:1;background-color: #ffe8dc;
-    background-color: rgba(255,232,220,var(--bg-opacity))
+    --bg-opacity:1;
+    background-color: #CEE5F2;
+    /* background-color: rgba(255,232,220,var(--bg-opacity)) */
 }
 
 .bg-solumn {
@@ -452,7 +453,7 @@ pre>code.highlight {
 }
 
 .hover\:bg-warm-sick:hover {
-    --bg-opacity:1;background-color: #ffe8dc;
+    --bg-opacity:1;background-color: #CEE5F2;
     background-color: rgba(255,232,220,var(--bg-opacity))
 }
 
